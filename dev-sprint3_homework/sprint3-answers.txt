@@ -1,0 +1,7 @@
+#Michael Lattanzio 
+
+Readline reads characters from the file until it gets to a newline and returns the results of a string.
+
+Strip can be used to remove letters and whitespaces from a string. 
+
+
